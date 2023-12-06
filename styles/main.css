@@ -1,0 +1,40 @@
+.nav_bar {
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.nav_bar a {
+    font-size: 24px;
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+#title_name {
+    font-size: 3.5rem;
+}
+
+.homepage_project_image {
+    max-width: 300px;
+    max-height: 300px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background-color: rgba(203, 179, 222, 0.692);
+
+}
+img{opacity: 0.9;}
+
+img:hover{box-shadow: 3px 3px 7px rgb(255, 243, 243);}
+.project_card_name  {
+    text-align: center;
+    text-shadow: 2px 2px #cbb3de;
+}
+
+.project_card_about {
+    text-align: center;
+}
+
+.project_page_description {
+    margin-top: 1%;
+}
+
+{
+    cursor: url('https://64.media.tumblr.com/5d89cc2444bf7ea6ad6821761aae072b/9ed521e731e12a1f-13/s100x200/b3d015b73b93047ac92d39c9e23f3fc4e1462425.gifv'),auto;
+  }
